@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MCDream</string>
+    <string name="old_pin">Old pin</string>
+    <string name="new_pin">New Pin</string>
+    <string name="login">Login</string>
+    <string name="confirm_new_pin">Confirm new pin</string>
+    <string name="change_pin">Change pin</string>
+
+</resources>
